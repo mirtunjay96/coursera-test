@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>image and links</title>
+    <a href="https://linkdin.com" target="_blank">Go to Linkdin</a><br>
+    <a href="https://twitter.com" target="_blank">Go to Twitter</a><br>
+    <a href="https://facebook.com" target="_blank">Go to Facebook</a><br>
+    <a href="https://google.com" target="_blank">Go to Google</a><br>
+    <img src="https://source.unsplash.com/random" alt="error in image" width="200" height="200">
+</head>
+<body>
+    
+</body>
+</html>
